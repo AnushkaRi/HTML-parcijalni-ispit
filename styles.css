@@ -1,0 +1,36 @@
+html {
+  font-size: 20px;
+}
+
+body {
+  font-family: 'Signika Negative', sans-serif;
+  color: black;
+  background-color: #ebebeb;
+}
+
+h1 {
+  color: #004e89;
+}
+
+h2 {
+  color: #407ba7;
+}
+
+a {
+  color: rgb(192, 31, 130);
+}
+
+a:visited {
+  color: rgb(31, 55, 192);
+}
+
+.button {
+   border: 0;
+    line-height: 1.5;
+    padding: 0 15px;
+    font-size: 1rem;
+    text-align: center;
+    color: #fff;
+    border-radius: 5px;
+    background-color: #004e89;
+}
